@@ -1,0 +1,2 @@
+#UIUC Calendar App
+- This is a copy of the [UIUC Calendar App](http://uiuccalendar.appspot.com/) using the same code by Ryan Hitchman. It's here in case the appspot app ever goes down, since it provides a pretty damn useful tool. 
